@@ -6,5 +6,16 @@
          display: block;
          margin: 20px auto;
     }
-
+    .title-text h1{
+        font-size: 35px;
+    }
+    .features{
+        flex-basis: 100%;
+    }
+    .features-img{
+        flex-basis: 100%;
+    }
+    .features-img img{
+        width: 100%;
+    }
 }

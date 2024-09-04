@@ -34,4 +34,18 @@
         .testimonial-col{
             flex-basis: 100%;
         }
+        .footer-left{
+           flex-basis: 100%;
+           font-size: 14px;
+           text-align: center;
+        }
+        .footer-right{
+           flex-basis: 100%;
+           font-size: 14px;
+           margin-top: 50px;
+           text-align: center;
+        }
+        .footer-img{
+            top: 25%;
+        }
 }
